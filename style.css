@@ -226,8 +226,6 @@ header nav #menu-btn {
     margin-bottom: 20px;
     font-size: 18px;
     margin-left: 5px;
-
-    
     animation: animate .5s ease-out 0.1s 1 forwards;
 }
 
